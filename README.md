@@ -48,6 +48,6 @@ python gui_app/bmd_gui_app.py
 
 ## 🧑‍💻 Author
 
-Ashwin Nambiar  
+Ashwin  
 MSc Diagnostics, Data & Digital Health  
 University of Warwick
