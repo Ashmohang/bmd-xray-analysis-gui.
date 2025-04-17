@@ -46,6 +46,6 @@ bmd-xray-analysis-gui/
 
 ## Author
 
-**Ashwin Nambiar**  
+**Ashwin Mohan**  
 MSc Diagnostics, Data and Digital Health  
 University of Warwick
